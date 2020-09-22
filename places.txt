@@ -1,0 +1,23 @@
+castle yard
+prison
+cornfield
+garbage pile
+pasture
+embankment
+chamber
+rooftop
+inner bailey
+bathroom
+cafeteria
+stairwell
+seashore
+parapet
+auction house
+toy store
+oral surgeon
+shoe repair shop
+dog kennel
+distillery
+hair replacement clinic
+pig pen
+plastic surgeon’s office
